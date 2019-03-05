@@ -9,3 +9,4 @@ brew tap superbrothers/bin
 ## Bins
 
 - `superbrothers/bin/neutron`: OpenStack Neutron Client
+- `superbrothers/bin/openstack`: OpenStack Client
